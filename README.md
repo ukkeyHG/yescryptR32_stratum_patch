@@ -1,11 +1,10 @@
-# yenten_stratum_patch
+# cryply_stratum_patch  
 
-## stratum-mining yenten patch
+## stratum-mining cryply patch  
 
 ```
-git clone https://github.com/xshsaku/yenten_stratum_patch yenten_stratum_patch
-cp yenten_stratum_patch/stratum.patch stratum-mining/
-cd stratum-mining/
-patch -p1 < stratum.patch
+git clone https://github.com/ukkeyHG/cryply_stratum_patch.git  
+
+patch -p1 < cryply_stratum_patch/stratum.patch  
 ```
 
