@@ -1,10 +1,10 @@
-# cryply_stratum_patch  
+# yescryptR32_stratum_patch  
 
-## stratum-mining cryply patch  
+## stratum-mining yescryptR32 patch  
 
 ```
-git clone https://github.com/ukkeyHG/cryply_stratum_patch.git  
+git clone https://github.com/ukkeyHG/yescryptR32_stratum_patch.git  
 
-patch -p1 < cryply_stratum_patch/stratum.patch  
+patch -p1 < yescryptR32_stratum_patch/stratum.patch  
 ```
 
