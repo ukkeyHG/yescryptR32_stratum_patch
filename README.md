@@ -5,6 +5,6 @@
 ```
 git clone https://github.com/ukkeyHG/yescryptR32_stratum_patch.git  
 
-patch -p1 < yescryptR32_stratum_patch/stratum.patch  
+patch -p1 < yescryptR32_stratum_patch/yescryptR32.patch  
 ```
 
